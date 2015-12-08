@@ -1,0 +1,2 @@
+-- created new table and insert value 3
+INSERT INTO upgrades VALUES (3, "this;that");
